@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhiJunior
-- 👀 I’m interested in MERN Stack Developmet
+- 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently working on my personal Projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...this is my linkedin profile
